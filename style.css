@@ -7,6 +7,15 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+blockquote {
+    font-size: 20px;
+    margin: 0;
+    color: #575757;
+    font-style: italic;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
