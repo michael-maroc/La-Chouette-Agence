@@ -18,7 +18,7 @@ blockquote {
 
 a,
 button {
-    transition: all .3s ease-in-out;
+    transition: all .4s ease-in-out;
     outline: none!important;
 }
 
@@ -47,7 +47,7 @@ a:hover {
     background-size: cover;
     position: relative;
 }
-
+.btn
 .bloc .container {
     padding-left: 0;
     padding-right: 0;
@@ -142,7 +142,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: rgba(255, 255, 255, 6);
 }
 
 .d-bloc .a-btn:hover,
@@ -661,7 +661,7 @@ a {
     font-family: "helvetica";
     font-weight: 400;
     color: #575757!important;
-    position: relative;
+    /* position: relative; */
 }
 
 .container {
@@ -717,6 +717,7 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    position:relative;
 }
 
 h3 {
